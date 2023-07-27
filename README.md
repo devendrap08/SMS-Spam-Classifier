@@ -15,4 +15,4 @@ pip install -r requirements.txt
 ## To run the project
 ```bash
 streamlit run main.py
-```s
+```
